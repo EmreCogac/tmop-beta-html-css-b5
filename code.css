@@ -1,0 +1,13 @@
+.code{
+    text-align: left !important;
+    
+}
+.text-color{
+    text-align: center   !important;
+    color: #4E4FEB !important;
+}
+
+   @viewport {
+    width:device-width;
+    zoom:1;
+    }
